@@ -2,6 +2,9 @@ gcc-instrument-functions
 ========================
 
 **compile:**
-	gcc -finstrument-functions foo.c
+
+>     gcc -finstrument-functions foo.c
+
 
 **then run the executable.**
+
